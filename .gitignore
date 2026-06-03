@@ -27,3 +27,7 @@ dist-ssr
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+
+# AWS CLI installer
+aws/
+awscliv2.zip
